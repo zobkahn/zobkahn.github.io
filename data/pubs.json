@@ -1,9 +1,9 @@
 [
     {
         "title"     : "A sociocultural explanation of Internet-enabled work in rural regions.",
+        "link"      : "https://dl.acm.org/doi/pdf/10.1145/3443705",
         "conference": "TOCHI Special Issue on Rural Computing (2021).",
         "authors"   : "<b>Zoe Kahn</b>* and Jenna Burrell.",
-        "link"      : "https://dl.acm.org/doi/pdf/10.1145/3443705",
         "code"     : "",
         "talk"    : "https://www.youtube.com/watch?v=eVY27D2f8ow&t=606s",
         "extra"    : "",
