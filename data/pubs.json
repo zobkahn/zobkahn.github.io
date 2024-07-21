@@ -1,13 +1,13 @@
 [
     {
-        "title"     : "Fairness and representation in satellite-based poverty maps:<br />Evidence of urban-rural disparities and their impacts on downstream policy.",
-        "conference": "IJCAI (2023).",
-        "authors"   : "<b>E. Aiken</b>*, E. Rolf*, and J. Blumenstock.",
-        "link"      : "https://www.ijcai.org/proceedings/2023/0653.pdf",
-        "code"     : "https://github.com/emilylaiken/satellite-fairness-replication/",
-        "talk"    : "https://ijcai-23.org/video/?vid=39005591",
+        "title"     : "A sociocultural explanation of Internet-enabled work in rural regions.",
+        "conference": "TOCHI Special Issue on Rural Computing (2021).",
+        "authors"   : "<b>Zoe Kahn</b>* and Jenna Burrell.",
+        "link"      : "https://dl.acm.org/doi/pdf/10.1145/3443705",
+        "code"     : "",
+        "talk"    : "https://www.youtube.com/watch?v=eVY27D2f8ow&t=606s",
         "extra"    : "",
-        "early"    : "<b>Early versions:</b> <a href='https://nasaharvest.github.io/ml-for-remote-sensing/iclr2023/#schedule'>ICLR Workshop on Machine Learning for Remote Sensing</a> (2023) and <a href='https://kdd-humanitarian-mapping.herokuapp.com/'>KDD Workshop on Humanitarian Mapping</a> (2022).",
+        "early"    : "",
         "section"   : "Journal Articles and Conference Proceedings",
         "selected"  : true
     },
