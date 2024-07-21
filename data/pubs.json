@@ -23,6 +23,7 @@
         "section"   : "Journal Articles and Conference Proceedings",
         "selected"  : true
     }
+]
     // {
     //     "title"     : "Targeting development aid with machine learning and mobile phone data:<br />Evidence from an anti-poverty intervention in Afghanistan.",
     //     "conference": "Journal of Development Economics 161 (2022).",
@@ -121,4 +122,4 @@
     //     "selected"  : true
     // }
 
-]
+//]
