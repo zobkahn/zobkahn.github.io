@@ -106,7 +106,7 @@ def build_pubs(pubs, full):
         if i != len(titles) - 1:
             pubs_html += "<p style=\"font-size: 0.4em\">&nbsp</p>\n"
 
-    pubs_html += "<p>*Equal Contribution</p>"
+    # pubs_html += "<p>*Equal Contribution</p>"
     pubs_html += "</div>\n" # close pubs
     pubs_html += "</div>\n" # close section
     return pubs_html
